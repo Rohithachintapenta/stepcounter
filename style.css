@@ -1,0 +1,23 @@
+
+body {
+    background-color: goldenrod;
+    text-align: center;
+    font-family: Arial;
+}
+
+h1 {
+    color: burlywood;
+}
+
+p {
+    font-size: 20px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
